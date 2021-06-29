@@ -32,3 +32,8 @@
 	path = OCA/margin-analysis
 	url = git@github.com:OCA/margin-analysis.git
 	branch = 12.0
+
+[submodule "OCA/manufacture"]
+	path = OCA/manufacture
+	url = git@github.com:OCA/manufacture.git
+	branch = 12.0
