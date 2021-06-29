@@ -12,3 +12,8 @@
 	path = OCA/server-auth
 	url = git@github.com:OCA/server-auth.git
 	branch = 12.0
+
+[submodule "OCA/project"]
+	path = OCA/project
+	url = git@github.com:OCA/project.git
+	branch = 12.0
